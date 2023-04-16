@@ -28,7 +28,7 @@ class Fib {
     }
 }
 
-public class BeeCrowd1029 {
+public class Main {
     public static void main(String[] args) {
         Fib f = new Fib();
         Scanner sc = new Scanner(System.in);
